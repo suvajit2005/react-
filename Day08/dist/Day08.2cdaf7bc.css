@@ -1,0 +1,22 @@
+body {
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+#root {
+  text-align: center;
+  background-color: #e43282;
+  border-radius: 10%;
+  padding: 20px 10px;
+  box-shadow: 10px 10px 10px;
+}
+
+.second {
+  font-size: 20px;
+}
+/*# sourceMappingURL=Day08.2cdaf7bc.css.map */
